@@ -25,3 +25,4 @@ yarn-error.log*
 /server-api/db.json
 /server-api/node_modules
 /src/api
+.coverage
